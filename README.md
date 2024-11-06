@@ -1,6 +1,10 @@
 # food-worker
 A program, to provide educational assistance to food workers and the public about salary, benefits, and tip policy for businesses in every state, of Make Sure It Happens Inc, a Maryland non-profit and 501(c)(3) EIN 85-3536160 | www.msih.org | ithappens@msih.org | 717-674-4674
 
+Use github [*Issues*](../../issues)  to track project and operational: Bugs, Features, and Tasks
+
+Use github [*Discussions*](../../discussions/categories/general) to discuss project and operational tops: Design, Marketing, Strategy, and Technology
+
 # Purpose
 - A Drupal project to provide information about food workers' laws and business tipping-sharing policies. 
 - A searchable database of food worker wages laws at federal, state, and local levels: wages and benefits.
